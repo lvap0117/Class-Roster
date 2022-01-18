@@ -1,4 +1,4 @@
-# Class-Roster
+# Scripting and Programming Applications
 Class roster school project for WGU in C++
 
 This assesment was created in C++ using Visual Studio Application
